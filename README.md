@@ -1,6 +1,6 @@
 # Network Quality of Service (QoS) Analysis
 
-A data-driven analysis of MTN Nigeria's 3G network signal quality using real drive test data collected across multiple days and sessions. This project processes, classifies, and visualizes key radio frequency (RF) metrics to assess network performance across geographic locations.
+A data-driven analysis of MTN, Glo, AIrtel and 9Mobile, Nigeria's 3G network signal quality using real drive test data collected across multiple days and sessions. This project processes, classifies, and visualizes key radio frequency (RF) metrics to assess network performance across geographic locations.
 
 ---
 
@@ -21,7 +21,7 @@ A data-driven analysis of MTN Nigeria's 3G network signal quality using real dri
 
 ## 🔍 Overview
 
-This project analyzes drive test data collected from MTN Nigeria's 3G network. Drive testing is a standard telecommunications practice where signal measurements are recorded while moving through a coverage area. The goal is to assess the **Quality of Service (QoS)** by evaluating three core RF metrics:
+This project analyzes drive test data collected from MTN, Glo, AIrtel and 9Mobile, Nigeria's 3G network. Drive testing is a standard telecommunications practice where signal measurements are recorded while moving through a coverage area. The goal is to assess the **Quality of Service (QoS)** by evaluating three core RF metrics:
 
 - **Ec/Io** — Signal quality (carrier-to-interference ratio)
 - **Rx Power** — Received signal strength
